@@ -11,7 +11,7 @@ const Footer = () => {
                     color: '#f5f5f5',
                     fontWeight: '500'
                 }}>Codeschool</h2>
-                <p style={{ color: 'white' }}>Reference site about Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga incidunt nihil quod animi? Deleniti dicta eaque laborum nostrum saepe mollitia, illum ullam, corporis quod blanditiis laudantium consequatur reiciendis minus incidunt!</p>
+                <p style={{ color: 'white' }}>CodeSchool is an innovative platform dedicated to empowering learners to build and enhance their coding skills. With a diverse range of courses, interactive projects, and hands-on challenges, it caters to both beginners and experienced developers.</p>
             </div>
 
             <div style={{ width: '100%' }}>
